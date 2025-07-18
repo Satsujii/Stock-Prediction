@@ -15,8 +15,7 @@ This is a simple and interactive web application built with Streamlit that allow
 1. **Clone the repository** (or copy the code to your local machine):
 
    ```bash
-   git clone <your-repo-url>
-   cd stock_Prediction
+   git clone https://github.com/Satsujii/Stock-Prediction
    ```
 
 2. **Install dependencies**  
